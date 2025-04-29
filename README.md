@@ -65,7 +65,7 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 ### Get in Touch
 If you got any questions or just want to chat, feel free to reach me out. :)
 
-[![Website](https://img.shields.io/website?url=https%3A//haidarali.net&up_message=Up&down_message=Down&label=Website&logoColor=fff&logo=firefox)](https://haidarali.net/)
+[![Website](https://img.shields.io/website?url=https%3A//haidarali.net&up_message=Up&down_message=Down&label=Website&logoColor=fff&logo=firefox&up_color=059669)](https://haidarali.net/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/haidarali-dev)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/1274057050300612619)
 
