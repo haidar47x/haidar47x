@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋</h1>
 
-Welcome! I'm **Haidar Ali**, a pragmatic **Software Engineer** who likes to build things. I mostly build backend systems — the stuffs users never see. Occassionally, I create user-interfaces with obsessive care that are clean and minimal.
+Welcome! I'm **Haidar Ali**, a pragmatic **Software Engineer** who likes to build things. I mostly build backend systems — the stuffs users never see. Occassionally, I create user-interfaces with obsessive care because I'm very opinionated about how they should look and behave.
 
 I also work on open-source projects for the dopamine rush. I've built [Pocketer](https://github.com/haidar47x/Pocketer), which is a Google Chrome extension for managing Pocket items. I'm also building [Leisurely](https://github.com/haidar47x/Leisurely), which is a simple time tracker and ambient sound desktop app for focused work.
 
