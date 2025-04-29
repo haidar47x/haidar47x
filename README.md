@@ -43,7 +43,7 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
 [![NestJS](https://img.shields.io/badge/-NestJS-D82155?logo=nestjs&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/-Express.js-374551?logo=express&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/-Kafka-FFFFFF?logo=apachekafka&logoColor=black&labelColor=white)](#)
+[![Kafka](https://img.shields.io/badge/-Kafka-white?logo=apachekafka&logoColor=black&labelColor=white)](#)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](#)
 [![Prisma](https://img.shields.io/badge/-Prisma-131F28?logo=prisma&logoColor=white)](#)
 [![Mongoose](https://img.shields.io/badge/-Mongoose-800?logo=mongoose&logoColor=white)](#)
