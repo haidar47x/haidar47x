@@ -39,9 +39,16 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-D82155?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-374551?logo=express&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-131F28?logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-29014E?logo=typeorm&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800?logo=mongoose&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-398CCB?logo=trpc&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-99425B?logo=jest&logoColor=white)
+
 
 ![React](https://img.shields.io/badge/React-2B7FA5?logo=react&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
