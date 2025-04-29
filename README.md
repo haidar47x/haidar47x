@@ -8,7 +8,7 @@ Currently, I'm working on a platform for authors to create beautiful art. And, t
 
 ### Featured Articles
 
-I also have soft spot for writing technical articles about Linux, Coding, and DevOps. Currently, I've *published 200+ articles*, mostly on [Baeldung](https://baeldung.com/author/haidarali)
+I have soft spot for writing technical articles about Linux, Coding, and DevOps. Currently, I've *published 200+ articles*, mostly on [Baeldung](https://baeldung.com/author/haidarali).
 
 - 🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
 - 🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
