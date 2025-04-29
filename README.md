@@ -6,7 +6,7 @@ I also work on open-source projects for the dopamine rush. I've built [Pocketer]
 
 Currently, I'm working on a platform for authors to create beautiful art. And, trust me, there's no AI involved.
 
-<p align="center>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haidar47x&theme=gruvbox_light&show_icons=true" alt="GitHub Stats" />
 </p>
 
