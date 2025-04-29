@@ -10,10 +10,10 @@ Currently, I'm working on a platform for authors to create beautiful art. And, t
 
 I have soft spot for writing technical articles about Linux, Coding, and DevOps. Currently, I've *published 200+ articles*, mostly on [Baeldung](https://baeldung.com/author/haidarali).
 
-⠀⠀🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
-⠀⠀🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
-⠀⠀🔒 [Close File Descriptors in Bash](https://www.baeldung.com/linux/bash-close-file-descriptors)
-⠀⠀📋 [Bidirectional Clipboard Piping in Bash](https://www.baeldung.com/linux/bash-bidirectional-clipboard-piping)
+- 🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
+- 🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
+- 🔒 [Close File Descriptors in Bash](https://www.baeldung.com/linux/bash-close-file-descriptors)
+- 📋 [Bidirectional Clipboard Piping in Bash](https://www.baeldung.com/linux/bash-bidirectional-clipboard-piping)
 
 
 ### Toolbelt
@@ -21,7 +21,7 @@ I have soft spot for writing technical articles about Linux, Coding, and DevOps.
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-1183C3?logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3F79C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2B5B84?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-007D9C?logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-F89820?logo=openjdk&logoColor=white)
@@ -31,7 +31,9 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-6EA063?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E02C48?logo=nestjs&logoColor=white)
-![]
+![Express](https://img.shields.io/badge/-Express.js-374551?logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-131F28?logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-29014E?logo=typeorm&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-2B7FA5?logo=react&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
