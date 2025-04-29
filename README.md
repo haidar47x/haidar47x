@@ -58,4 +58,4 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-02BCB7?logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonwebservices)
-![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FFFFFF?logo=linux&logoColor=black)
