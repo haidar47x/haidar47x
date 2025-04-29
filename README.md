@@ -50,9 +50,9 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-172b4d?logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-2F3242?logo=electron&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-8E6FFE?logo=vite&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-02BCB7?logo=elasticsearch&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
