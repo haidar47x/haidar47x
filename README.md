@@ -18,7 +18,7 @@ I have soft spot for writing technical articles about Linux, Coding, and DevOps.
 
 ### Toolbelt
 
-I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
+I’ve used plenty of tools over the years, but these are the ones I trust the most.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3F79C6?logo=typescript&logoColor=white)
@@ -46,7 +46,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Socket.io](https://img.shields.io/badge/-Socket.io-303846?logo=socket.io&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-99425B?logo=jest&logoColor=white)
 
-
 ![React](https://img.shields.io/badge/-React-004D73?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-172b4d?logo=next.js&logoColor=white)
@@ -59,3 +58,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonwebservices)
 ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?logo=linux&logoColor=black)
+
+<hr>
+
+Stats
