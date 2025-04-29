@@ -39,7 +39,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-D82155?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-374551?logo=express&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-000000?logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-FFFFFF?logo=apachekafka&logoColor=black&labelColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-131F28?logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-29014E?logo=typeorm&logoColor=white)
