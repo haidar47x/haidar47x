@@ -29,11 +29,19 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![HTML5](https://img.shields.io/badge/-HTML5-DB4F2A?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-64319A?logo=css3&logoColor=white)
 
-![Nodejs](https://img.shields.io/badge/-Node.js-6EA063?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E02C48?logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00684a?logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-3672B9?logo=amazondynamodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-0F80CC?logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-FF4438?logo=redis&logoColor=white)
+
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-D82155?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-374551?logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-131F28?logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-29014E?logo=typeorm&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-800?logo=mongoose&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-2B7FA5?logo=react&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
