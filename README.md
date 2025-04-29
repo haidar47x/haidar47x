@@ -6,6 +6,8 @@ I also work on open-source projects for the dopamine rush. I've built [Pocketer]
 
 Currently, I'm working on a platform for authors to create beautiful art. And, trust me, there's no AI involved.
 
+<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidar47x&theme=gruvbox_light&show_icons=true)</p>
+
 ### Featured Articles
 
 I have soft spot for writing technical articles about Linux, Coding, and DevOps. Currently, I've published **200+** articles, mostly on [Baeldung](https://baeldung.com/author/haidarali).
