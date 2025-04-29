@@ -10,10 +10,10 @@ Currently, I'm working on a platform for authors to create beautiful art. And, t
 
 I have soft spot for writing technical articles about Linux, Coding, and DevOps. Currently, I've *published 200+ articles*, mostly on [Baeldung](https://baeldung.com/author/haidarali).
 
-- 🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
-- 🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
-- 🔒 [Close File Descriptors in Bash](https://www.baeldung.com/linux/bash-close-file-descriptors)
-- 📋 [Bidirectional Clipboard Piping in Bash](https://www.baeldung.com/linux/bash-bidirectional-clipboard-piping)
+⠀⠀🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
+⠀⠀🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
+⠀⠀🔒 [Close File Descriptors in Bash](https://www.baeldung.com/linux/bash-close-file-descriptors)
+⠀⠀📋 [Bidirectional Clipboard Piping in Bash](https://www.baeldung.com/linux/bash-bidirectional-clipboard-piping)
 
 
 ### Toolbelt
