@@ -60,7 +60,7 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### Get in Touch
-[![Website](https://img.shields.io/website-up-down-green-red/http/haidarali.svg)](https://haidarali.net/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/haidarali.net)](https://haidarali.net/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/haidarali-dev)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/1274057050300612619)
 
