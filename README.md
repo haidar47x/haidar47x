@@ -1,8 +1,8 @@
 <h1 align="center"> Hi👋</h1>
 
-Welcome! I'm **Haidar Ali**, a pragmatic **Software Engineer** who likes to build things. I mostly build backend systems — the stuffs users never see. Occassionally, I create user-interfaces with obsessive care because I'm very opinionated about how they should look and behave.
+I'm **Haidar Ali**, a pragmatic **Software Engineer** who likes to build things. I mostly build backend systems — the stuff users never see. Occasionally, I create user interfaces with obsessive care because I'm very opinionated about how they should look and behave.
 
-I also work on open-source projects for the dopamine rush. I've built [Pocketer](https://github.com/haidar47x/Pocketer), which is a Google Chrome extension for managing Pocket items. I'm also building [Leisurely](https://github.com/haidar47x/Leisurely), which is a simple time tracker and ambient sound desktop app for focused work.
+I also work on open-source projects for the dopamine rush. I've built [Pocketer](https://github.com/haidar47x/Pocketer), a Google Chrome extension for managing Pocket items. I'm also building [Leisurely](https://github.com/haidar47x/Leisurely), a simple time tracker and ambient sound desktop app for focused work.
 
 Currently, I'm working on a platform for authors to create beautiful art. And, trust me, there's no AI involved.
 
@@ -12,7 +12,7 @@ Currently, I'm working on a platform for authors to create beautiful art. And, t
 
 ### Featured Articles
 
-I have a soft spot for writing technical articles about Linux, Coding, and DevOps. Currently, I've published **200+** articles, mostly on [Baeldung](https://baeldung.com/author/haidarali).
+I have a soft spot for writing technical articles about Linux, Coding, and DevOps. So far, I've published **200+** articles, mostly on [Baeldung](https://baeldung.com/author/haidarali).
 
 - 🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
 - 🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
