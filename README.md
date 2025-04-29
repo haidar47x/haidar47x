@@ -24,10 +24,10 @@ I have a soft spot for writing technical articles about Linux, Coding, and DevOp
 I’ve used plenty of tools over the years, but these are the ones I trust the most.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3F79C6?logo=typescript&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-2B5B84?logo=python&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/-Golang-007D9C?logo=go&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-F89820?logo=openjdk&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/-SQL-C74634?logo=sqlite&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-DB4F2A?logo=html5&logoColor=white)](#)
