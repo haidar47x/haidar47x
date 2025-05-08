@@ -25,9 +25,7 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-2B5B84?logo=python&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/-Golang-007D9C?logo=go&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/-SQL-C74634?logo=sqlite&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-DB4F2A?logo=html5&logoColor=white)](#)
@@ -37,7 +35,7 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![MySQL](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-00684a?logo=mongodb&logoColor=white)](#)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-3672B9?logo=amazondynamodb&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/-SQLite-0F80CC?logo=sqlite&logoColor=white)](#)
+[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-02BCB7?logo=elasticsearch&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/-Redis-FF4438?logo=redis&logoColor=white)](#)
 
 [![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
@@ -51,14 +49,14 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![Jest](https://img.shields.io/badge/-Jest-99425B?logo=jest&logoColor=white)](#)
 
 [![React](https://img.shields.io/badge/-React-004D73?logo=react&logoColor=white)](#)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](#)
+[![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/-Next.js-172b4d?logo=next.js&logoColor=white)](#)
 [![Electron](https://img.shields.io/badge/-Electron-2F3242?logo=electron&logoColor=white)](#)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)](#)
 [![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/-Vite-8E6FFE?logo=vite&logoColor=white)](#)
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
 
-[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-02BCB7?logo=elasticsearch&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white)](#)
