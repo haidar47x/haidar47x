@@ -41,7 +41,6 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
 [![NestJS](https://img.shields.io/badge/-NestJS-D82155?logo=nestjs&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/-Express.js-374551?logo=express&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/-Kafka-white?logo=apachekafka&logoColor=black&labelColor=white)](#)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](#)
 [![Prisma](https://img.shields.io/badge/-Prisma-131F28?logo=prisma&logoColor=white)](#)
 [![Mongoose](https://img.shields.io/badge/-Mongoose-800?logo=mongoose&logoColor=white)](#)
@@ -61,7 +60,6 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white)](#)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonwebservices)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ### Get in Touch
