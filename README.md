@@ -2,7 +2,7 @@
 
 I'm **Haidar Ali**, a pragmatic **Software Engineer** who likes to build things. I mostly build user interfaces with obsessive care and design principles.
 
-I also work on open-source projects for the dopamine rush. I've built [Pocketer](https://github.com/haidar47x/Pocketer), a Google Chrome extension for managing Pocket items. I'm also building [Leisurely](https://github.com/haidar47x/Leisurely), a simple time tracker and ambient sound desktop app for focused work.
+I also work on open-source projects for the dopamine rush. I've built [Pocketer](https://github.com/haidar47x/Pocketer), a Google Chrome extension for managing Pocket items.
 
 Currently, I'm working on a platform for fiction authors to create beautiful art.
 
