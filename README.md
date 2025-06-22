@@ -45,7 +45,7 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![React](https://img.shields.io/badge/-React-004D73?logo=react&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
 
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=icloud&logoColor=fff)](#)
+[![Amazon AWS](https://img.shields.io/badge/%20AWS-232F3E?logo=icloud&logoColor=fff)](#)
 [![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=fff)](#)
 [![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?logo=liquibase&logoColor=fff)](#)
 [![ELK Stack](https://img.shields.io/badge/Elastic_Stack-005571?logo=elasticstack&logoColor=white)](#)
