@@ -33,8 +33,6 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![HTML5](https://img.shields.io/badge/-HTML5-DB4F2A?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-64319A?logo=css3&logoColor=white)](#)
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
-[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -46,6 +44,7 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](#)
 [![React](https://img.shields.io/badge/-React-004D73?logo=react&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
 
 [![Amazon AWS](https://img.shields.io/badge/%20AWS-232F3E?logo=icloud&logoColor=fff)](#)
 [![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=fff)](#)
