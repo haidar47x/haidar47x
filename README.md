@@ -12,7 +12,7 @@ Currently, I'm working on a proprietary platform for fiction authors to create b
 
 ### Featured Articles
 
-I have a soft spot for writing deeply technical articles about Linux and DevOps, mostly via Baeldung that reach **12+M** reader. So far, I've published **150+** [articles](https://haidarali.net/#/articles).
+I have a soft spot for writing deeply technical articles about Linux and DevOps, mostly via Baeldung that reach **12M** reader. So far, I've published **150+** [articles](https://haidarali.net/#/articles).
 
 - 🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
 - 🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
