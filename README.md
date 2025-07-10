@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋</h1>
 
-I'm **Haidar Ali**, a pragmatic **Software Engineer** specializing in developing backend systems using Node.js, NestJS, Spring Boot, and AWS.
+I'm **Haidar Ali**, a pragmatic **Software Engineer** specializing in developing backend systems using Spring Boot, and AWS.
 
 I also work on open-source projects for the dopamine rush. I've built [Pocketer](https://github.com/haidar47x/Pocketer), a Google Chrome extension for managing Pocket items.
 
-Currently, I'm working on a proprietary platform for fiction authors to create beautiful art.
+Currently, I'm working on a proprietary platform for fiction authors to create beautiful art. *More details coming later.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haidar47x&theme=gruvbox_light&show_icons=true" alt="GitHub Stats" />
