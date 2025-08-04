@@ -45,7 +45,8 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](#)
 [![React](https://img.shields.io/badge/-React-004D73?logo=react&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/-Node.js-339933?logo=django&logoColor=white)](#)
+[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
 [![Amazon AWS](https://img.shields.io/badge/%20AWS-232F3E?logo=icloud&logoColor=fff)](#)
 [![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=fff)](#)
