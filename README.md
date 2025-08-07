@@ -2,9 +2,9 @@
 
 I'm **Haidar**, a pragmatic **Software Engineer** focused on developing scalable and robust backend systems.
 
-I also work on open-source projects for the dopamine rush. I've built [Ursacore](https://github.com/haidar47x/Ursacore), a self-hosted medical LIMS for small labs with limited budgets.
+I also work on open-source projects for the dopamine rush. I'm writing [Ursacore](https://github.com/haidar47x/Ursacore), a self-hosted medical LIMS for small labs with limited budgets.
 
-Currently, I'm working on a cross-platform desktop app for fiction authors to create production-grade beautiful structured content.
+Currently, I'm working on a cross-platform desktop app for fiction authors to create beautiful production-grade structured content.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haidar47x&theme=gruvbox_light&show_icons=true" alt="GitHub Stats" />
