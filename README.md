@@ -15,7 +15,7 @@ Currently, I'm working on a cross-platform desktop app for fiction authors to cr
 Occasionally, I enjoy writing deeply technical articles about Java, backend infrastructure, and Linux internals. Presently, I write via Baeldung that reaches **12M+** readers. So far, I've published **150+** [articles](https://haidarali.net/#/articles).
 
 - 🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
-- 🪣 [An Introduction to ELK Stack](https://www.baeldung.com/ops/elk)
+- 🧵 [Parse XML as String in Java](https://www.baeldung.com/ops/elk)
 - 🔒 [Close File Descriptors in Bash](https://www.baeldung.com/linux/bash-close-file-descriptors)
 - 📋 [Bidirectional Clipboard Piping in Bash](https://www.baeldung.com/linux/bash-bidirectional-clipboard-piping)
 
