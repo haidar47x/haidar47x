@@ -10,7 +10,7 @@ Currently, I'm working on a cross-platform desktop app for fiction authors to cr
 
 ### Writing
 
-Occasionally, I enjoy writing in-depth articles about programming, backend infrastructure, and Linux internals on Baeldung, which reach **12M+** readers. So far, I've published **150+** [articles](https://haidarali.net/#/articles).
+Occasionally, I enjoy writing in-depth articles about programming, backend infrastructure, and Linux internals on Baeldung, which reach thousands of readers worldwide. So far, I've published **150+** [articles](https://haidarali.net/#/articles).
 
 - 🔎 [Introspection vs. Reflection](https://www.baeldung.com/cs/oop-introspection-reflection-difference)
 - 🧵 [Parse XML as String in Java](https://www.baeldung.com/java-parse-xml-string)
