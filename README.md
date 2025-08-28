@@ -2,8 +2,6 @@
 
 I'm **Haidar**, a pragmatic **Software Engineer** focused on developing scalable backend systems.
 
-Currently, I'm working on a cross-platform desktop app for fiction authors to create beautiful production-grade structured content.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haidar47x&theme=gruvbox_light&show_icons=true" alt="GitHub Stats" />
 </p>
