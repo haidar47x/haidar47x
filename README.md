@@ -19,29 +19,30 @@ Occasionally, I enjoy writing in-depth articles about programming, backend infra
 
 I’ve used plenty of tools over the years, but these are the ones I trust the most.
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![SQL](https://img.shields.io/badge/-SQL-C74634?logo=sqlite&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![SQL](https://img.shields.io/badge/-SQL-C74634?logo=sqlite&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![HTML5](https://img.shields.io/badge/-HTML5-DB4F2A?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-64319A?logo=css3&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-DB4F2A?logo=html5&logoColor=fff)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-64319A?logo=css3&logoColor=fff)](#)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=fff)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 [![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=fff)](#)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=fff)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)](#)
 
 [![AWS](https://img.shields.io/badge/%20AWS-232F3E?logo=icloud&logoColor=fff)](#)
-[![ELK Stack](https://img.shields.io/badge/Elastic_Stack-005571?logo=elasticstack&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![ELK Stack](https://img.shields.io/badge/Elastic_Stack-005571?logo=elasticstack&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](#)
 
 ### Get in Touch
 
