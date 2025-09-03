@@ -19,29 +19,28 @@ Occasionally, I enjoy writing in-depth articles about programming, backend infra
 
 I’ve used plenty of tools over the years, but these are the ones I trust the most.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![SQL](https://img.shields.io/badge/-SQL-C74634?logo=sqlite&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-DB4F2A?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-64319A?logo=css3&logoColor=white)](#)
 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
-[![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
+[![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit&logoColor=fff)](#)
+
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](#)
 
 [![AWS](https://img.shields.io/badge/%20AWS-232F3E?logo=icloud&logoColor=fff)](#)
 [![ELK Stack](https://img.shields.io/badge/Elastic_Stack-005571?logo=elasticstack&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=docker&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ### Get in Touch
