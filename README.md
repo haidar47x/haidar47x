@@ -33,7 +33,6 @@ I’ve used plenty of tools over the years, but these are the ones I trust the m
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 [![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff)](#)
-
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](#)
 
